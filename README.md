@@ -4,6 +4,8 @@ Here is my implementation of **Libft**, a fundamental project completed during m
 
 Here, you'll find a carefully crafted version that was evaluated by three different students, as well as the **Moulinette** correction tool. While every effort was made to ensure the code is bug-free, errors may still exist. Your feedback is highly appreciated!
 
+<img width="198" alt="125/100 grade" src="https://github.com/user-attachments/assets/708486c1-c045-40d6-ab0c-e5dc3650a50d">
+
 ## About the Project
 
 This repository provides a **complete implementation** of the **Libft** project from 42, including all mandatory functions and additional bonus features. It was coded by **Maxime Rochedy**, under the login **mrochedy**, as part of the 42 program. The goal of Libft is to give developers a deeper understanding of how core functions work under the hood and to build a personal C library.
